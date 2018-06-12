@@ -1,0 +1,368 @@
+@media screen and (max-width: 1199px) {
+
+	.header__contacts, .footer__contacts,.contact__contacts,.about__contacts{
+		padding-left:0;
+	}
+	.merit__third{
+		margin-top:20px;
+		padding: 56px 305px 60px;
+	}
+
+	.footer-phone{
+		margin-left:25px;
+	}
+	
+	.move__center:after{
+		top:155px;
+	}
+
+}
+
+
+@media screen and (max-width: 991px) {
+	.merit__second {
+		padding: 56px 17px 54px;
+}
+	.merit__third{
+		padding: 56px 200px 60px;
+	}
+
+	.contact__main{
+		margin:0;
+		box-shadow:none;
+	}  
+
+	#contact__main, #moving__main,#about__main{
+		background:#fff;
+	}  
+	.move__center:after{
+		top:124px;
+	}
+
+}
+
+@media screen and (max-width:900px){
+	 h1 {
+	 	font-size:80px;
+	 }
+	 .offer__title{
+	 	font-size:41px;
+	 }
+	 
+}
+
+@media screen and (max-width:850px){
+.comment__img{
+    float: none;
+    z-index: 1;
+    padding-top: 60px;
+    margin:0 auto;
+}
+
+.comment__name{
+	float:none;
+	text-align: center;
+	padding-left: 40px;
+}
+
+.comment__cities {
+	float:none;
+	text-align: center;
+	margin-bottom:10px;
+}
+
+.comment__social{
+	margin-top:10px;
+	display:block;
+	text-align: center;
+}
+
+.comment__shadow {
+    padding: 80px 42px 40px 42px;
+}
+}
+
+@media screen and (max-width:800px){
+	 h1 {
+	 	font-size:70px;
+	 }
+	 .offer__title{
+	 	font-size:35px;
+	 }
+
+	 .merit__block{
+	 	margin:0 auto 17px;
+	 }
+ 
+	 .merit__info{
+	 	margin:0 auto;
+	 }
+
+	 .offer__moving h2 {
+    font-size: 41px;
+}
+}
+
+@media screen and (max-width:767px){
+	.merit__block{
+		width:100%;
+		margin:0 auto 17px;
+		padding: 56px 0 60px;
+	}
+
+	.merit__info{
+		width:80%;
+		margin:0 auto;
+	}
+
+
+	.move__info{
+		width:90%;
+	}
+
+	.arrow__down{
+		margin-bottom:20px;
+	}
+	.advantages__item{
+		margin-top: 15px;
+	}
+	.foot__rights{
+		text-align: right;
+	}
+
+	.footer__logo{
+		float:left;
+		margin:0;
+	}
+
+	.main__item__wrapper{
+		text-align: center;
+
+	}
+
+	.main__item__bulb{
+	background-position:center top;
+}
+
+	.main__item__block{
+		padding-left:0;
+		padding-top:70px;
+	}
+
+	.contact__form__wrapper {
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+	.main__left {
+    background-position:top center;
+}
+
+
+	.moving__info{
+		text-align: center;
+	}
+
+	.moving_right{
+		position: absolute;
+	    z-index: 2;
+	    top: 305px;
+	}
+
+	.main__right{
+	position:relative;
+	}
+
+	.about__center{
+		margin-bottom: 20px;
+	}
+
+	.partner__left{
+		margin-bottom: 40px;
+	}
+	.partner__block {
+    padding: 0 25px;
+}
+}	
+
+
+@media screen and (max-width:700px){
+	 h1 {
+	 	font-size:50px;
+	 }
+	 .offer__title{
+	 	font-size:33px;
+	 }
+	 
+}
+
+@media screen and (max-width:698px){
+	.move__center:after{
+		top:158px;
+	}
+
+	.offer__about h2 {
+		font-size:41px;
+	}
+
+
+}
+
+
+
+@media screen and (max-width:600px){
+	 h1 {
+	 	font-size:47px;
+	 }
+
+	 .offer__moving h2 {
+    font-size: 35px;
+}
+	.offer__about h2 {
+		font-size:31px;
+	}
+}
+
+@media screen and (max-width:556px){
+	.move__center:after{
+		top:184px;
+	}	 
+}
+
+
+@media screen and (max-width:520px){
+	. 
+}
+
+@media screen and (max-width:485px){
+	.foot__policy{
+		width:100%;
+	}	
+
+.offer__contact h2 {
+    font-size: 45px;  
+}
+
+ .offer__moving h2 {
+    font-size: 30px;
+}
+
+}
+
+
+
+	  
+@media screen and (max-width: 470px) {
+	.estate-wrapper{
+		width:100%;
+	}
+
+	h1{
+		font-size:36px;
+	}
+
+	.offer__title{
+		font-size: 20px;
+	}	
+
+	h2{
+
+		font-size:23px; }
+
+}
+
+	
+@media screen and (max-width: 450px){
+	
+	.bulbs {
+		width: 270px;
+	    margin-left: -139px;
+	    top: 28px;
+}
+
+	.contact__form__wrapper {
+  	  padding: 22px 25px;
+
+}
+	.form-cta {
+		font-size:13px;
+	}
+}
+@media screen and (max-width:427px){
+	.move__center:after{
+		top:216px;
+	}	
+
+	.offer__contact h2 {
+    font-size: 40px;  
+} 
+
+	.offer__moving h2 {
+    font-size: 20px;
+}
+}
+
+
+@media screen and (max-width: 400px) {
+
+	.footer__logo {
+		float:none;
+		text-align:center;
+	}
+
+	.foot__rights{
+		margin-top: 0;
+    	margin-bottom: 15px;
+    	text-align: center;
+    	width: 100%;
+	}
+	.offer__about h2 {
+		font-size:28px;
+	}
+}
+
+@media screen and (max-width: 486px){
+
+ .comment__shadow {
+    padding: 65px 14px 40px 14px;
+	}
+
+.comment__social {
+	font-size: 12px;
+	}
+
+.comment__cities {
+	font-size:10px;
+	}
+
+.comment__name{
+	font-size:11px;
+	padding-left:25px;
+	}
+}
+
+
+
+
+@media screen and (max-width:370px){
+	.offer__contact h2 {
+    font-size: 35px;  
+} 
+
+	.offer__about h2 {
+		font-size:26px;
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,11 @@
+.box-modal {
+	position: relative;
+	width: 500px;
+	padding: 30px;
+	background: #11b2f5 url(../img/contact-bg.png);
+	color: #fff;
+	border-radius: 6px;
+	text-align: center;
+}
+.box-modal_close { position: absolute; right: 7px; top: 6px; font-size: 15px; line-height: 15px; color: #fff; cursor: pointer; }
+.box-modal_close i:hover { color: rgba(255,255,255,0.8) }
